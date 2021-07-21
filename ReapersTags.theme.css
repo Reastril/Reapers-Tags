@@ -1,0 +1,33 @@
+/**
+* @name ReapersTags
+* @version 1.0.0
+* @author Astri
+* @invite 7X88F5gb3s
+* @description Tags for Reapers.
+*/
+
+.contents-2mQqc9 > img ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: none;
+  color: rgba(215, 215, 215, 0.8);
+  text-shadow: 0 0 2px currentcolor;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-left: 8px;
+  background-color: rgba(255, 255, 255, 0.07);
+  font-size: 12px;
+  padding: 0 5px;
+}
+
+.contents-2mQqc9 > img[src*="809599842681749525"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reapers (Owner)";}
+.contents-2mQqc9 > img[src*="169684925346217986"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reapers (Administrator)";}
+.contents-2mQqc9 > img[src*="809599817796943872"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reapers (Moderator)";}
+.contents-2mQqc9 > img[src*="433746784653803540"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="365867743834275861"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="837884668354625546"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="809599791792652298"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="866848335460433950"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="782425246522540093"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="842922735885484073"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="397189453757677608"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="786002235460550667"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
+.contents-2mQqc9 > img[src*="534891471132950529"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "Reaper";}
